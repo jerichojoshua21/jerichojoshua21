@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jerichojoshua21
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning MySQL, Microsoft Excel and Power Bi
+- Hi, I’m Jericho
+- I’m interested in data analytics
+- I’m currently learning Advance Skills in MySQL, Microsoft Excel and Power Bi.
 - I am currently a Graphics Designer but I am really interested to learn Data Analytics
 - Let's share Ideas :) 
