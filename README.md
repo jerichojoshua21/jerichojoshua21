@@ -1,5 +1,6 @@
 - Hi, I’m Jericho
 - I’m interested in data analytics
-- I’m currently learning Advance Skills in MySQL, Microsoft Excel and Power Bi.
-- I am currently a Graphics Designer but I am really interested to learn Data Analytics
-- Let's share Ideas :) 
+- I’m learning Advanced Skills in MySQL, Microsoft Excel and Power Bi.
+- I am currently a Graphics Designer and I'm transitioning into Data Analytics and have done some sample projects using Microsoft Excel, MySQL and Power Bi.
+- Being a Graphics Designer also helped me to choose a neat designs for creating vizualizations for datas.
+- 
